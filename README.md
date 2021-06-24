@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabrielbritobastos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielbritobastos" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/53628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="53628" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13668675" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="53628" height="30" width="40" /></a>
 <a href="https://kaggle.com/gabrielbritobastos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gabrielbritobastos" height="30" width="40" /></a>
 <a href="https://fb.com/gabrielbrito.bastos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabrielbrito.bastos" height="30" width="40" /></a>
 </p>
