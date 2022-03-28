@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently working on [Flori Tech](https://flori.tech)
 
-- 🔭 I’m also working on [LNDC laboratory](https://github.com/lndc-end)
-
 - 💬 Ask me about **Development PCB as Arduino and NodeMCU, back-end developing and hardware designing**
 
 - 📫 How to reach me **gabriel.bastos@poli.ufrj.br**
