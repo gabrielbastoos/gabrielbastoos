@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Software development, hardware designing and entrepreneurship**
 
-- 📫 How to reach me **gabriel.bastos@poli.ufrj.br**
+- 📫 How to reach me **gabriel.bastos@poli.ufrj.br** or **gab.brito.b@gmail.com**
 
 - ⚡ Fun fact **I do have awesome playlists at Spotify**
 
