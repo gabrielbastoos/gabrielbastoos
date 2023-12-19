@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on [Flori Tech](https://flori.tech)
 
-- 💬 Ask me about **Development PCB as Arduino and NodeMCU, back-end developing and hardware designing**
+- 💬 Ask me about **Software development, hardware designing and entrepreneurship**
 
 - 📫 How to reach me **gabriel.bastos@poli.ufrj.br**
 
